@@ -1,5 +1,5 @@
 
-# Kijiji Scraper and SQLite Database
+# Kijiji Scraper with SQLite Database
 
 This repository contains a Python project that scrapes room rental listings from Kijiji and stores the data in a SQLite database. The project includes:
 
